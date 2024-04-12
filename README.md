@@ -23,18 +23,18 @@ Modificación de la nomenclatura del nombre de los atributos, así como de sus v
 
 En esta sección se ralizan gráficos displot para analizar variables numéricas.
 
-#### 5.Análisis de variables categóricas:
+#### 5. Análisis de variables categóricas:
 
 A través de gráficos countplot, catplot, swarmplot, boxplot y violinplot se analiza a mayor profundidad los datos, a la vez que se generan variables categóricas de los datos previos.
 
-#### 6.Análisis de variables numéricas y regresión:
+#### 6. Análisis de variables numéricas y regresión:
 
 Paneles con gráficos displot y scatterplot para compreender la relación entre ciertas variables.
 
-#### 7.Test de hipótesis:
+#### 7 .Test de hipótesis:
 
 Elaboración y prueba de hipótesis 
 
-#### 8.Análisis conjunto de variables:
+#### 8. Análisis conjunto de variables:
 
 Jointplot y pairplot para obtención de paneles con múltiples gráficos y la relación entre variables.
